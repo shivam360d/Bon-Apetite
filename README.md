@@ -1,6 +1,6 @@
 # Bon-Appetit
 
-Gain insights about various restaurants, their cuisines, ratings, votes etc. Data is extracted from [Zomato API](https://developers.zomato.com/documentation).
+Gain insights about various restaurants, their cuisines, ratings, votes etc. Data is extracted from [Zomato API](https://developers.zomato.com/documentation). View rest of my projects [here](https://shivam360d.github.io/ShivamVats/).
 
 ### Data Visualizations
 
