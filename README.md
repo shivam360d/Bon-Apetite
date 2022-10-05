@@ -4,19 +4,25 @@ Gain insights about various restaurants, their cuisines, ratings, votes etc. Dat
 
 ### Data Visualizations
 
-Below are the major data visualizations done for different features of the dataset using Matplotlib.
+Below are the major data visualizations done for different features of the dataset using Matplotlib and Geopandas.
 
-### 1. Distribution of resturants with rating > 4.5
+
+### 1. Restuarants rating classified upon states
+
+
+![1](images/4.jpg)
+
+### 2. Distribution of resturants with rating > 4.5
 
 
 ![1](images/1.png)
 
-### 2. Distribution of top 10 cuisines in Delhi NCR
+### 3. Distribution of top 10 cuisines in Delhi NCR
 
 
 ![2](images/2.png)
 
-### 3. Variation of number of resturant votes with rating
+### 4. Variation of number of resturant votes with rating
 
 
 ![3](images/3.png)
